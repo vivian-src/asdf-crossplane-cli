@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.0.1](https://www.github.com/joke/asdf-crossplane-cli/compare/v2.0.0...v2.0.1) (2021-10-02)
+
+
+### Bug Fixes
+
+* removed shell debugging flag ([3df967a](https://www.github.com/joke/asdf-crossplane-cli/commit/3df967a539a80f9d35e4311db13fed33935fb66e))
+
 ## [2.0.0](https://www.github.com/joke/asdf-crossplane-cli/compare/v1.0.0...v2.0.0) (2021-10-02)
 
 
