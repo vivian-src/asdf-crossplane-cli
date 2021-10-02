@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-set -xeuo pipefail
+set -euo pipefail
 
 RELEASES="https://releases.crossplane.io"
 TOOL_NAME="crossplane-cli"
