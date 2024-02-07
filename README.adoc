@@ -5,5 +5,5 @@ https://github.com/crossplane/crossplane-cli[crossplane-cli] plugin for https://
 == Install
 
 ```
-asdf plugin-add crossplane-cli https://github.com/joke/asdf-crossplance-cli.git
+asdf plugin-add crossplane-cli https://github.com/vivian-src/asdf-crossplance-cli.git
 ```
