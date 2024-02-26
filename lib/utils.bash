@@ -4,7 +4,7 @@ set -euo pipefail
 
 RELEASES="https://releases.crossplane.io"
 TOOL_NAME="crossplane-cli"
-EXECUTABLE_NAME="kubectl-crossplane"
+EXECUTABLE_NAME="crossplane"
 
 fail() {
   echo -e "asdf-$TOOL_NAME: $*"
